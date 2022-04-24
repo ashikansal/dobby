@@ -10,7 +10,7 @@
 
 dobby is **free** and will serve your orders.
 
-You can start dobby in Docker using:
+You can start dobby in Docker using below command:
 
 ```shell
 $ docker run -p 4444:4444 thecasualcoder/dobby
