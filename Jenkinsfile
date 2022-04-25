@@ -16,7 +16,7 @@ pipeline {
         stage('Build') {
             steps {
                 sh '''
-                    echo "building docker image ......."
+                    echo "building the docker image ......."
                     docker build -t "${DOCKER_IMAGE_NAME}" -f ./build.Dockerfile .
                 '''
             }
