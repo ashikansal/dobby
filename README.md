@@ -1,4 +1,4 @@
-# dobby
+# dobby APP
 
 [![Build Status](https://github.com/thecasualcoder/dobby/actions/workflows/ci.yml/badge.svg)](https://github.com/thecasualcoder/dobby/actions/workflows/ci.yml)
 [![Go Doc](https://godoc.org/github.com/thecasualcoder/dobby?status.svg)](https://godoc.org/github.com/thecasualcoder/dobby)
